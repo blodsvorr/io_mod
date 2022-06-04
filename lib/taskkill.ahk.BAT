@@ -1,0 +1,1 @@
+cmd.exe /c taskkill /IM DSATray.exe /IM DSAService.exe /IM DSAUpdateService.exe /IM OneApp.IGCC.WinService.exe /IM esrv_svc.exe /IM IntelCpHDCPSvc.exe /IM igfxCUIService.exe /IM dpef_helper.exe /IM IntelCpHeciSvc.exe /IM igfxEM.exe /IM OfficeClickToRun.exe /IM YourPhone.exe /IM YourPhoneServer.exe /IM MKCHelper.exe /IM xampp-control.exe /IM SurSvc.exe /F /T
